@@ -34,6 +34,9 @@
   --color-text: var(--vt-c-text-light-1);
 
   --section-gap: 160px;
+  --light-blue-main: rgba(55,157,200,255);
+  --dark-blue-main: rgba(2,25,61,255);
+  --gold-main: rgba(156,134,76,255);
 }
 
 @media (prefers-color-scheme: dark) {
